@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "author name",
+  "classifications": ["Common", "Code"],
+  "identity": "CleanFuncSol",
+  "name": ".NET Core 3.1 azure functionapp",
+  "shortName": "CleanFunc-sln",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "CleanFunc",
+  "preferNameDirectory": "true",
+  "guids": ["73AC2750-A019-4D5C-9F31-932B0061AEA2"]
+}
