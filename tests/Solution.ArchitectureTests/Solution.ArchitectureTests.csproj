@@ -19,7 +19,7 @@
       <ProjectReference Include="..\..\src\Application\Application.csproj" />
       <ProjectReference Include="..\..\src\Domain\Domain.csproj" />
       <ProjectReference Include="..\..\src\Infrastructure\Infrastructure.csproj" />
-      <ProjectReference Include="..\..\src\FunctionApp\CleanFunc.csproj" />
+      <ProjectReference Include="..\..\src\FunctionApp\FunctionApp.csproj" />
     </ItemGroup>
 
 </Project>
